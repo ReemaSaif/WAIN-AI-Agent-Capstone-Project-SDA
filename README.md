@@ -12,11 +12,9 @@
 
 3- Alanoud Alotaibi (UI Engineer)
 
-## **Project Title:**
+## **Project Title & Description: **
 
 **WAIN: AI-Powered Place Recommendation Agent**
-
-## **Project Description:**
 
 AI-powered place recommendation agent that helps users discover and choose places in Riyadh, Saudi Arabia.
 
