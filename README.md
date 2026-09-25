@@ -2,21 +2,25 @@
 
 ## WAIN AI Agent Capstone Project
 
-**Project Name:** WAIN (وين؟)
+## **Project Name:** WAIN (وين؟)
 
 ## **Team Members:**
 
 1- Reema Almutawa (Data Collection & Preparation - AI & Agent Engineer)
+
 2- Fatima Alqahtani (PostgreSQL Database Engineer)
+
 3- Alanoud Alotaibi (UI Engineer)
 
-**Project Title:**
+## **Project Title:**
+
 **WAIN: AI-Powered Place Recommendation Agent**
 
-**Project Description:**
+## **Project Description:**
+
 AI-powered place recommendation agent that helps users discover and choose places in Riyadh, Saudi Arabia.
 
-**Problem Statement:**
+## **Problem Statement:**
 
 Planning a trip or deciding where to go often requires searching across multiple websites and applications. This can make it difficult and time-consuming for users to:
 
