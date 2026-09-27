@@ -8,7 +8,7 @@
 
 1- Reema Almutawa (Data Collection & Preparation - AI & Agent Engineer)
 
-2- Fatima Alqahtani (PostgreSQL Database Engineer)
+2- Fatimah Alqahtani (PostgreSQL Database Engineer)
 
 3- Alanoud Alotaibi (UI Engineer)
 
